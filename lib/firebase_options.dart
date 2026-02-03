@@ -41,8 +41,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDbOkc2Msh4jdylDO6MSKcT2-jMf_DagcA',
-    appId: '1:899943364956:web:75dfc80ee8dd7bdd97a999',
+    apiKey:,
+    appId: ,
     messagingSenderId: '899943364956',
     projectId: 'komu-d2255',
     authDomain: 'komu-d2255.firebaseapp.com',
@@ -51,35 +51,35 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAwvI42OFQzyvapUJFEx26y8fvnf6Y2gDo',
-    appId: '1:899943364956:android:dd74322cefadce6597a999',
-    messagingSenderId: '899943364956',
+    apiKey: ,
+    appId: ,
+    messagingSenderId: ,
     projectId: 'komu-d2255',
     storageBucket: 'komu-d2255.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDnJPAlA6N8zzzLNh-CvDDCGc2osyGB4zc',
-    appId: '1:899943364956:ios:7c49eb63cc7799d597a999',
-    messagingSenderId: '899943364956',
+    apiKey: ,
+    appId: ,
+    messagingSenderId: ,
     projectId: 'komu-d2255',
     storageBucket: 'komu-d2255.firebasestorage.app',
     iosBundleId: 'com.example.komuChatapp',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDnJPAlA6N8zzzLNh-CvDDCGc2osyGB4zc',
-    appId: '1:899943364956:ios:7c49eb63cc7799d597a999',
-    messagingSenderId: '899943364956',
+    apiKey: ',
+    appId: ,
+    messagingSenderId: ,
     projectId: 'komu-d2255',
     storageBucket: 'komu-d2255.firebasestorage.app',
     iosBundleId: 'com.example.komuChatapp',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDbOkc2Msh4jdylDO6MSKcT2-jMf_DagcA',
-    appId: '1:899943364956:web:2cd6d8de8e83a81d97a999',
-    messagingSenderId: '899943364956',
+    apiKey: ,
+    appId: ,
+    messagingSenderId: ',
     projectId: 'komu-d2255',
     authDomain: 'komu-d2255.firebaseapp.com',
     storageBucket: 'komu-d2255.firebasestorage.app',
