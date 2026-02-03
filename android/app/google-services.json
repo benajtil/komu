@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "899943364956",
+    "project_id": "komu-d2255",
+    "storage_bucket": "komu-d2255.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899943364956:android:dd74322cefadce6597a999",
+        "android_client_info": {
+          "package_name": "com.example.komu_chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwvI42OFQzyvapUJFEx26y8fvnf6Y2gDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
